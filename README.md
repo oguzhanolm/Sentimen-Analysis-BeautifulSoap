@@ -1,4 +1,4 @@
-# Sentimen-Analysis-Python
+# Sentiment-Analysis-Python
  BeautifulSoap kullanılarak hepsiburada sitesi üzerinden bir ürünün tüm yorumlarını çekip bu yorumların temizlenerek clean data haline getirilip sonuç olarak elde edilen yararlı data ile duygu analizi modeli oluşturan bir projedir.
  
  Projede sırası ile:
